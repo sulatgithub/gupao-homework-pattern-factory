@@ -9,5 +9,13 @@ public class AbstractFactoryTest {
         pa1.method2();
         pb1.method3();
         pb1.method4();
+
+        factory = new Factory2();
+        pa1 = factory.createProductA();
+        pb1 = factory.createProductB();
+        pa1.method1();
+        pa1.method2();
+        pb1.method3();
+        pb1.method4();
     }
 }
