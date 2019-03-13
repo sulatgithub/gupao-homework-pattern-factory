@@ -1,8 +1,8 @@
-package com.sul.designparpattern.SimpleFactory;
+package com.sul.designpattern.SimpleFactory;
 
 public class Product1 extends AbstractProduct {
     public Product1(){
-        
+
     }
 
     @Override

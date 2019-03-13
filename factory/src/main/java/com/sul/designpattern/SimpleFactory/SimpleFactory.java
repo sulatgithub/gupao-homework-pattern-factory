@@ -1,4 +1,4 @@
-package com.sul.designparpattern.SimpleFactory;
+package com.sul.designpattern.SimpleFactory;
 
 public class SimpleFactory {
 
